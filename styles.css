@@ -18,22 +18,11 @@ a{
 	text-decoration: none;
 	color: black;
 }
-div{
-	border: 0.3vw solid black;
-	border-radius: 5px;
-	padding: 20px;
-	background: white;
-	width: 90vw;
-}
-video{
-	width: 90vw;
-	background-color: rgb(255, 255, 255);
-	padding: 1px; 
-	border-radius: 1px;
-}
-audio{
-	width: 90vw;
-	background-color: rgb(255, 255, 255);
-	padding: 1px; 
-	border-radius: 1px;
-}
+
+.player_one,
+.player_two {
+      background-color: rgb(255, 255, 255);
+      padding: 10px;
+      border-radius: 5px;
+	  width: 100vh
+    }
